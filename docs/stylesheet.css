@@ -62,7 +62,10 @@ main{
     font-family: serif;
 }
 .mapa{
-   text-align: center;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    overflow: auto;
 }
 img{
     width: 100%;
@@ -209,7 +212,7 @@ p{
     font-size: 1rem;
 }
 .mapa-iframe {
-    max-width: 300;
-    max-height: 250;
+    max-width: 200;
+    max-height: 300;
 }
 }
