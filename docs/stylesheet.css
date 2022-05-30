@@ -208,7 +208,8 @@ p{
 .boton{
     font-size: 1rem;
 }
-.mapa {
+iframe {
     max-width: 300;
+    max-height: 250;
 }
 }
