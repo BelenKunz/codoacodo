@@ -208,4 +208,7 @@ p{
 .boton{
     font-size: 1rem;
 }
+.mapa {
+    max-width: 300;
+}
 }
